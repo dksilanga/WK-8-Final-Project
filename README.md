@@ -91,5 +91,4 @@ GROUP BY s.student_id;
 ---
 
 ## 👨‍💻 Author
-Generated for **Assignment: Build a Complete Database Management System**  
-Language: **MySQL 8.x Compatible**
+Daniel Thuo Final Project **Assignment-Complete Database Management System**  
